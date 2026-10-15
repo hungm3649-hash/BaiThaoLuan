@@ -1,0 +1,16 @@
+D:\C#\P.B\bin\Debug\P.B.exe.config
+D:\C#\P.B\bin\Debug\P.B.exe
+D:\C#\P.B\bin\Debug\P.B.pdb
+D:\C#\P.B\obj\Debug\P.B.csproj.AssemblyReference.cache
+D:\C#\P.B\obj\Debug\P.B.Form1.resources
+D:\C#\P.B\obj\Debug\P.B.Properties.Resources.resources
+D:\C#\P.B\obj\Debug\P.B.csproj.GenerateResource.cache
+D:\C#\P.B\obj\Debug\P.B.csproj.CoreCompileInputs.cache
+D:\C#\P.B\obj\Debug\P.B.exe
+D:\C#\P.B\obj\Debug\P.B.pdb
+D:\C#\P.B\obj\Debug\P.B.Form2.resources
+D:\C#\P.B\obj\Debug\P.B.Form3.resources
+D:\C#\P.B\obj\Debug\P.B.Form4.resources
+D:\C#\P.B\obj\Debug\P.B.Form5.resources
+D:\C#\P.B\obj\Debug\P.B.Form6.resources
+D:\C#\P.B\obj\Debug\P.B.Form7.resources
